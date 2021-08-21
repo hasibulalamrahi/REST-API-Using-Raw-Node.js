@@ -1,6 +1,6 @@
 //control what particular route is doing
 
-const Product = require('./productModel')
+const Product = require('./crudModel')
 
 const { getPostData } = require('./utils')
 
